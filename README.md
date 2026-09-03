@@ -54,7 +54,7 @@ The ATtiny84 doesn't have onboard USB, so it's flashed using an Arduino Uno as a
 
 - Generic resistors, capacitors, and other passives can be substituted freely at the correct value/tolerance.
 - The ATtiny84 and nRF24 modules are both common and easily sourced new. The nRF24 module comes in many shapes and sizes; the mini version was used in this project as it was what I had on hand.
-- 18650 cells used here were recycled/harvested, capacity and health will vary if you're sourcing your own.
+- 18650 cells used here were recycled/harvested, capacity and health will very if you're sourcing your own.
 
 ---
 
