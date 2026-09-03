@@ -1,0 +1,16 @@
+ID,Designator,Quantity,Name,Notes / Link
+1,"B1,B2",2,18650 Battery,
+2,"C1,C7",1,220uF,
+3,C2,1,0.1uF,
+4,"C3,C4",2,1uF,
+5,C5,1,10uF,
+6,C6,1,2.2uF,
+7,R1,1,1MOhm,
+8,R2,1,470Ohm,
+9,LED1,"22""",WS2812B,
+10,Q1,1,IRLML6402TRPBF-JSM,https://www.digikey.ca/en/products/detail/infineon-technologies/IRLML6402TRPBF/811437
+11,U1,1,ATTINY84V-10PU,https://www.digikey.ca/en/products/detail/microchip-technology/ATTINY84V-10PU/1245918
+12,U2,1,AP7313-30SAG-7,https://www.digikey.ca/en/products/detail/diodes-incorporated/AP7313-30SAG-7/4249716
+13,U3,1,NRF24L01+,https://www.aliexpress.com/item/1005009894884618.html
+14,U4,1,MT3608,https://www.aliexpress.com/item/1005009065980527.html
+15,U5,1,TP4056-CHARGING-MODULE,https://www.aliexpress.com/item/1005012397354631.html

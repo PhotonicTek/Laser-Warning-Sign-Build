@@ -1,0 +1,8 @@
+ID,Designator,Quantity,Name,Notes / Link
+1,"B3,B4",2,AAA Battery,
+2,C8,1,1uF,
+3,C9,1,10uF,
+4,"R3,R4,R5",3,5.1kOhm,
+5,"PB1,PB2,PB3,PB4",4,Tactile Button,
+6,U6,1,ATTINY84V-10PU,https://www.digikey.ca/en/products/detail/microchip-technology/ATTINY84V-10PU/1245918
+7,U7,1,NRF24L01+,https://www.aliexpress.com/item/1005009894884618.html
