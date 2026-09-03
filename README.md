@@ -18,6 +18,8 @@ Video walkthrough of the design and build process: *[[Building a Wireless Laser 
 
 The sign has two states, safe and danger, lit from behind by an LED strip through a diffuse layer, with laser-cut lettering and icon. It's fully battery-operated, wirelessly switched by a handheld remote, and mounts with command strips.
 
+![Main](/images/laser_sign_layout.png)
+
 ### Sign Electronics
 - **ATtiny84** — main microcontroller, chosen for size, low-power sleep states, and flexible power input
 - **nRF24** — wireless transceiver, receives state changes from the remote
@@ -36,8 +38,6 @@ Same microcontroller and transceiver as the sign, with button inputs instead of 
 - With the sign on (LEDs lit): ~560mA, ~10 hours of runtime
 
 The ATtiny84 doesn't have onboard USB, so it's flashed using an Arduino Uno as an ISP programmer.
-
-![Main](/images/laser_sign_layout.png)
 
 ---
 
