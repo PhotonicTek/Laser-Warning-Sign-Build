@@ -10,7 +10,7 @@
 
 I wanted a warning sign that's better than just a paper sign taped to the door. This repo contains everything needed to reproduce the sign and its matching remote: schematics, code, 3D model files, laser cutter files, a parts list, and image assets.
 
-Video walkthrough of the design and build process: *[[Link!]](https://youtu.be/S0kvliff3TM)*
+Video walkthrough of the design and build process: *[[Building a Wireless Laser Warning Sign]](https://youtu.be/S0kvliff3TM)*
 
 ---
 
@@ -82,6 +82,6 @@ Portions of this documentation were drafted with the use of AI writing tools and
 
 ## See Also
 
-- Video walkthrough: *[[Link!]](https://youtu.be/S0kvliff3TM)*
+- Video walkthrough: *[[Building a Wireless Laser Warning Sign]](https://youtu.be/S0kvliff3TM)*
 - KiCad / EasyEDA (schematic tools): https://www.kicad.org / https://easyeda.com
 - Krita (used for the initial sign mockup): https://krita.org
